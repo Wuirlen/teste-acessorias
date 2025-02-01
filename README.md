@@ -33,24 +33,3 @@ Após subir os containers, acesse a aplicação pelo navegador:
 ```
 http://localhost:8080
 ```
-
-## Estrutura do Projeto
-
-```
-/seu-projeto
-│── /app               # Código-fonte da aplicação (MVC)
-│── /config            # Configurações do banco de dados
-│── /public            # Arquivos públicos e ponto de entrada
-│── /docker            # Configuração dos containers
-│── docker-compose.yml # Arquivo de configuração do Docker
-│── README.md          # Documentação do projeto
-```
-
-## Banco de Dados
-
-- **Host**: `db`
-- **Usuário**: `root`
-- **Senha**: `password`
-- **Banco**: `meubanco`
-
-As configurações do banco de dados podem ser ajustadas no arquivo `config/database.php`.
