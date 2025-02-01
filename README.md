@@ -14,8 +14,8 @@ Este projeto é uma aplicação PHP que segue o padrão MVC, utilizando Docker e
 ### 1. Clonar o Repositório
 
 ```sh
- git clone https://github.com/seu-usuario/seu-repositorio.git
- cd seu-repositorio
+ git clone https://github.com/Wuirlen/teste-acessorias.git
+ cd teste-acessorias
 ```
 
 ### 2. Subir os Containers
